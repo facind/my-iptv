@@ -1,0 +1,14 @@
+# iptv-org 主列表（Pages 版）
+https://iptv-org.github.io/iptv/index.m3u
+# iptv-org 主列表（raw 备用）
+https://raw.githubusercontent.com/iptv-org/iptv/master/playlists/index.m3u
+# 亚洲区
+https://iptv-org.github.io/iptv/regions/asia.m3u
+# 新闻类
+https://iptv-org.github.io/iptv/categories/news.m3u
+# 香港单国别（补充）
+https://iptv-org.github.io/iptv/countries/hk.m3u
+# 纪录片类（Discovery/NGC 候选）
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+# 电影类（HBO 候选）
+https://iptv-org.github.io/iptv/categories/movies.m3u
